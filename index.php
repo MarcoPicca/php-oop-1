@@ -35,7 +35,7 @@ include 'db.php';
 
 
     
-    <main class="d-flex bg-info flex-wrap pt-3 justify-content-center">
+    <main class="d-flex bg-info flex-wrap pt-5 justify-content-center">
         <?php foreach ($Movies as $movie) { ?>
             <div class="col-2 m-2 d-flex flex-direction-column align-items-stretch">
                 <div class="card">
